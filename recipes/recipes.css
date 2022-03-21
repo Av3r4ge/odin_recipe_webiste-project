@@ -1,0 +1,40 @@
+body {
+    background-color:papayawhip;
+    overflow: hidden;
+}
+
+div {
+    background-color: gray;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+p {
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+li {
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+ul {
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+.nav {
+    background-color: rgb(39, 39, 39);
+    overflow: hidden;
+}

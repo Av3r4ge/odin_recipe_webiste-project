@@ -1,0 +1,34 @@
+body {
+    background-color:papayawhip
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+.nav {
+    background-color: rgb(39, 39, 39);
+    overflow: hidden;
+}
+
+.recipe {
+    background-color: gray;
+    overflow: hidden;
+}
+
+.lasganalink {
+    font-family: sans-serif;
+    color: red;
+}
+
+.garliclink {
+    font-family: sans-serif;
+    color: white;
+}
+
+.saladlink {
+    font-family: sans-serif;
+    color: greenyellow;
+}
